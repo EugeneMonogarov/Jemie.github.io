@@ -10,3 +10,4 @@ This is the source code repository for "Junkyard Treasure Digger", a game about 
 *   **Platform:** Web, Windows, macOS (playable on itch.io)
 *   **Status:** Released
 *   https://jemie.itch.io/junkyard-treasure-digger
+![Pre2](https://github.com/user-attachments/assets/2b17c20a-5162-4247-93b4-ab44ee05d7ab)
