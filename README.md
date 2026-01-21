@@ -16,5 +16,3 @@ This is the source code repository for "Junkyard Treasure Digger", a game about 
 1.  Go to the official game page: [itch.io/junkyard-treasure-digger](https://jemie.itch.io/junkyard-treasure-digger)
 2.  Press the **"Play"** or **"Download"** button (depending on your platform).
 3.  Enjoy!
-
-## 📁 Project Structure
